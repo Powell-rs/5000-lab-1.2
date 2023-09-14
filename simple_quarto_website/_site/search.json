@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "wild.html",
+    "href": "wild.html",
+    "title": "Wild",
+    "section": "",
+    "text": "Why won’t it redirect About this site"
+  },
+  {
+    "objectID": "slides/slides.html",
+    "href": "slides/slides.html",
+    "title": "Slides",
+    "section": "",
+    "text": "Checking out slide, this format is pretty awesome actually"
+  },
+  {
+    "objectID": "slides/slides.html#test-1",
+    "href": "slides/slides.html#test-1",
+    "title": "Slides",
+    "section": "test 1",
+    "text": "test 1\nChecking out slide, this format is pretty awesome actually"
+  },
+  {
+    "objectID": "slides/slides.html#test-2",
+    "href": "slides/slides.html#test-2",
+    "title": "Slides",
+    "section": "test 2",
+    "text": "test 2\nwhats up"
+  },
+  {
+    "objectID": "slides/slides.html#code-block",
+    "href": "slides/slides.html#code-block",
+    "title": "Slides",
+    "section": "Code Block",
+    "text": "Code Block\n#| echo: true\n\nimport numpy as np\nimport matplotlib.pyplot as plt\n\nr = np.arange(0, 2, 0.01)\ntheta = 2 * np.pi * r\nfig, ax = plt.subplots(subplot_kw={\"projection\": \"polar\"})\nax.plot(theta, r)\nax.set_rticks([0.5, 1, 1.5, 2])\nax.grid(True)\nplt.show()"
+  },
+  {
+    "objectID": "slides/slides.html#citation-test",
+    "href": "slides/slides.html#citation-test",
+    "title": "Slides",
+    "section": "Citation test",
+    "text": "Citation test\nyeah this is a source (see Fordyce 1983, 10–12)"
+  },
+  {
+    "objectID": "slides/slides.html#image-1",
+    "href": "slides/slides.html#image-1",
+    "title": "Slides",
+    "section": "Image 1",
+    "text": "Image 1"
+  },
+  {
+    "objectID": "slides/slides.html#image-2",
+    "href": "slides/slides.html#image-2",
+    "title": "Slides",
+    "section": "Image 2",
+    "text": "Image 2"
+  },
+  {
+    "objectID": "slides/slides.html#i-think-this-is-where-sources-end-up",
+    "href": "slides/slides.html#i-think-this-is-where-sources-end-up",
+    "title": "Slides",
+    "section": "I think this is where sources end up",
+    "text": "I think this is where sources end up\n\n\n\n\n\n\nFordyce, Michael W. 1983. “A Program to Increase Happiness: Further Studies.” Journal of Counseling Psychology 30 (4): 483."
+  }
+]
